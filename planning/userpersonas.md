@@ -46,4 +46,3 @@
 
 **Scenario 1**:
 	John has just started working with a new client who wants to plant several large trees on their property. While he has experience with planting trees, he wants to ensure that he is using the latest techniques and equipment to give the trees the best chance of success. John visits the all about trees website and finds an article that explains the benefits of using a root stimulator when planting trees. The article provides clear instructions on how to use the stimulator and why it's beneficial. John follows the instructions and is pleased with the results - the trees are growing strong and healthy. John also notices that the website has a directory of tree nurseries and suppliers, which he bookmarks for future reference.
-
