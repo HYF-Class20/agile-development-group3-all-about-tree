@@ -9,7 +9,7 @@ Some boundaries around our project.
 - **UI design or color schemes**: we have a specific design guidelines to follow
   and color schemes to use in the project.
 
-## Internal: Involuntary
+### Internal: Involuntary
 
 - **Individual skill levels**: The skill level of each team member affects the
   complexity of the features we can implement and the time required to complete
@@ -17,7 +17,7 @@ Some boundaries around our project.
 - **Time available to work on the project**: Our team's availability and work
   schedules impact the amount of time we have to work on the project.
 
-# Internal: Voluntary
+## Internal: Voluntary
 
 - **Coding style and conventions**: Our team decide to follow a specific coding
   style and set of conventions to ensure consistency and maintainability in the
