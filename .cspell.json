@@ -1,6 +1,13 @@
 {
   "language": "en",
-  "words": ["prefered", "Paulo", "rainforest", "prefered", "Paulo", "rainforestn" ],
+  "words": [
+    "prefered",
+    "Paulo",
+    "rainforest",
+    "prefered",
+    "Paulo",
+    "rainforestn"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",

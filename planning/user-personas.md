@@ -1,6 +1,6 @@
 # User Personas
 
-# User 1
+## University student
 
 ![Liam](https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjB8fG1hbiUyMGluJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60)
 **Name**: Liam
@@ -46,7 +46,7 @@ conferences and connect with other botanists online. Liam hopes to find
 internships or research opportunities in botany to build his experience and
 knowledge in the field.
 
-# User 2
+### Businessman
 
 ![John](https://images.unsplash.com/photo-1618781937809-af2375aa8f5f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fG1hbiUyMGluJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60)
 **Name**: John
