@@ -4,7 +4,6 @@ Some boundaries around our project.
 
 ## External
 
-
 <!--
   constraints coming from the outside that your team has no control over. these may include:
   - project deadlines
@@ -13,11 +12,6 @@ Some boundaries around our project.
 -->
 
 ## Internal: Involuntary
-
-  
-
-
-
 
 <!--
   constraints that your team decided on to help scope the project. they may include:

@@ -46,7 +46,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Mohammad   |            |            |            |            |            |            |            |
 | Osei Biney | 17 - 00:30 | 17 - 00:30 | 17 - 00:30 | 17 - 00:30 | 17 - 00:30 | 17 - 00:30 | 17 - 00:30 |
 | Takang     |   13-16    |   13-16    |   13-16    |   13-16    |   13-16    |   13-16    |   13-16    |
-| Tesfalm |        |         |       |        |         |        |        |
+| Tesfalm    |            |            |            |            |            |            |            |
 
 ### How many hours everyone has per day
 
