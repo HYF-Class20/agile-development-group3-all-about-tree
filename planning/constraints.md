@@ -14,14 +14,6 @@ Some boundaries around our project.
 ## Internal: Involuntary
 
 <!--
-  constraints that come from within your team, and you have no control over. they may include:
-  - each of your individual skill levels
-  - amount of time available to work on the project
--->
-
-## Internal: Voluntary
-
-<!--
   constraints that your team decided on to help scope the project. they may include:
   - coding style & conventions
   - agree on a code review checklist for the project repository
