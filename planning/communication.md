@@ -45,7 +45,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Nana       |  18 - 22   |  18 - 22   |  18 - 22   |  18 - 22   |  18 - 22   |  18 - 22   |  18 - 22   |
 | Mohammad   |            |            |            |            |            |            |            |
 | Osei Biney | 17 - 00:30 | 17 - 00:30 | 17 - 00:30 | 17 - 00:30 | 17 - 00:30 | 17 - 00:30 | 17 - 00:30 |
-| Takang     |   13-16    |   13-16    |   13-16    |   13-16    |   13-16    |   13-16    |   13-16    |
+| Takang     |    9-14    |    9-14    |    9-14    |    9-14    |    9-14    |    9-14    |    9-14    |
 | Tesfalm    |            |            |            |            |            |            |            |
 
 ### How many hours everyone has per day
@@ -53,7 +53,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Nana : _5h_; extra comments?
 - Mohannad : _0h_;
 - Osei Biney : _10h_;
-- Takang: _4h_;
+- Takang: _6h_;
 - Tesfalem _0h_
 
 ## Asking for Help
