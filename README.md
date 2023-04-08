@@ -39,9 +39,9 @@ In this section it's based on the backlog and it is explain in our wireframe.
 
 | Name | Icon | Purpose |
 
-| ---- |
-------------------------------------------------------------------------------------------------|
-------------------| | Agile ![img](agile-lifecycle_0.png)|
+| ----               |
+| ------------------ | --- | ----------------------------------- |
+| ------------------ |     | Agile ![img](agile-lifecycle_0.png) |
 
 - Node 19.8.1
 - VSC code
