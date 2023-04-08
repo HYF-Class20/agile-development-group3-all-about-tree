@@ -39,18 +39,22 @@ In this section it's based on the backlog and it is explain in our wireframe.
 
 | Name | Icon | Purpose |
 
-| ----               |
-| ------------------ | --- | ----------------------------------- |
-| ------------------ |     | Agile ![img](agile-lifecycle_0.png) |
+| ----               | ------  | ----- |
+| ------------------ | ------- | ----- | ------ |
+| ------------------ | ------- | Agile | ![img] |
 
 - Node 19.8.1
 - VSC code
 
-- [Setup](#setup)
+## Setup
+
 - Template from HackYourFutureBelgium
-- [Repository]
-- Create a [project]
-- Clone this [Repository]
+- [Repository](https://github.com/HackYourFutureBelgium/template-html-css)
+- set the
+  repository -[agile-development-3](https://github.com/HYF-Class20/agile-development-group3-all-about-tree)
+- Create a [project](https://github.com/orgs/HYF-Class20/projects/24/views/2)
+- Clone this
+  [Repository](https://github.com/HYF-Class20/agile-development-group3-all-about-tree)
 - Add md files in planning folder directory
 - start editing md files:
 
@@ -62,3 +66,11 @@ In this section it's based on the backlog and it is explain in our wireframe.
 - [README]
 - [retrospective](/agile-development-group3-all-about-tree/planning/retrospective.md)
 - [user persona](/agile-development-group3-all-about-tree/planning/user-personas.md)
+
+### The Crew Members Of This Project
+
+- [x] Mohammad
+- [x] Nana
+- [x] Osei Biney
+- [x] Takang
+- [x] Tesfalem
