@@ -35,13 +35,7 @@ In this section it's based on the backlog and it is explain in our wireframe.
 
 - [Screenshots](#screenshots)</br>not yet</br>
 
-[Technologies](#technologies)
-
-| Name | Icon | Purpose |
-
-| ----               | ------  | ----- |
-| ------------------ | ------- | ----- | ------ |
-| ------------------ | ------- | Agile | ![img] |
+[Technologies](#technologies) Agile | ![agile](./styles/agile-lifecycle_0.png) |
 
 - Node 19.8.1
 - VSC code
